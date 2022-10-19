@@ -18,7 +18,7 @@ scoreboard objectives add AT.paid dummy
 scoreboard objectives add AT.relChannTime dummy
 scoreboard objectives add AT.selected dummy
 scoreboard objectives add AT.targetId dummy
-
+#รักกลุงตู่
 scoreboard objectives add AT.inNether dummy
 scoreboard objectives add AT.inOverworld dummy
 scoreboard objectives add AT.inEnd dummy
