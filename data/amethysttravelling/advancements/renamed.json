@@ -4,10 +4,10 @@
             "item": "minecraft:name_tag"
         },
         "title": {
-            "translate": "Choosed a matching name"
+            "translate": "คุณกำลังสับสนกับจุดวาร์ป"
         },
         "description": {
-            "translate": "Travel to a renamed fast travel point. To rename a fast travel point, use a name tag on the center of the platform"
+            "translate": "ทำการเปลี่ยนชื่อจุดวาร์ป. โดยการเปลี่ยนชื่อ โดยใช้ nametag เปลี่ยนชื่อบนจุดวาร์ป"
         },
         "frame": "goal",
         "announce_to_chat": false
