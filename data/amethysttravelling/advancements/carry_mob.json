@@ -4,10 +4,10 @@
             "item": "minecraft:iron_sword"
         },
         "title": {
-            "translate": "Was that risky?"
+            "translate": "ศัตรูเยือนถิ่น"
         },
         "description": {
-            "translate": "Travel with a hostile creature"
+            "translate": "วาร์ป พร้อมกับ มอนเตอร์ที่ไม่เป็นมิตร"
         },
         "frame": "goal",
         "announce_to_chat": false
