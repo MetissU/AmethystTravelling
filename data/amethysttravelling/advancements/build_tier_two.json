@@ -4,10 +4,10 @@
             "item": "minecraft:large_amethyst_bud"
         },
         "title": {
-            "translate": "Discover tier 2"
+            "translate": "ค้นพบระดับ 1"
         },
         "description": {
-            "translate": "Use a diamond block as a catalyst"
+            "translate": "ใช้ Lodestone เป็น Crystal"
         },
         "announce_to_chat": false
     },

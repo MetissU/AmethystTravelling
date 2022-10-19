@@ -1,10 +1,6 @@
 {
     "values": [
-        "#amethysttravelling:copper",
-        "minecraft:iron_block",
-        "minecraft:gold_block",
-        "minecraft:emerald_block",
-        "minecraft:diamond_block",
-        "minecraft:netherite_block"
+        "minecraft:lodestone",
+        "minecraft:beacon"
     ]
 }

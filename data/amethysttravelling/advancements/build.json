@@ -4,10 +4,10 @@
             "item": "minecraft:amethyst_block"
         },
         "title": {
-            "translate": "Build a fast travel point"
+            "translate": "สร้างจุดเชื่อม2สถานที่"
         },
         "description": {
-            "translate": "Build a 3x3 platform by placing 8 amethyst blocks in a square around a copper block as a catalyst. Then stand in the middle of the unactivated platform"
+            "translate": "สร้างแพลตฟอร์ม 3x3 โดยวางบล็อกอเมทิสต์ 8 บล็อกในสี่เหลี่ยมรอบบล็อก Lodestone เป็น Crystal แล้วไปยืนตรงกลางแท่นที่ยังไม่ได้เปิดใช้งาน"
         },
         "announce_to_chat": false
     },

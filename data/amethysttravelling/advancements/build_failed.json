@@ -4,10 +4,10 @@
             "item": "minecraft:budding_amethyst"
         },
         "title": {
-            "translate": "What's going wrong here?"
+            "translate": "เกิดอะไรขึ้นที่นี่?"
         },
         "description": {
-            "translate": "The chosen catalyst block seems to be too weak here"
+            "translate": "บล็อก crystal ที่เลือกดูเหมือนจะอ่อนแอเกินไปที่นี่"
         },
         "announce_to_chat": false
     },

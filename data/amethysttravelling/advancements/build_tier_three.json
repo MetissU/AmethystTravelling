@@ -4,10 +4,10 @@
             "item": "minecraft:amethyst_cluster"
         },
         "title": {
-            "translate": "Discover tier 3"
+            "translate": "ค้นพบระดับ 2"
         },
         "description": {
-            "translate": "Use a block of netherite as a catalyst"
+            "translate": "ใช้ Beacon เป็น Crystal"
         },
         "frame": "goal",
         "announce_to_chat": false
