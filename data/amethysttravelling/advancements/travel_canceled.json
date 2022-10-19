@@ -4,10 +4,10 @@
             "item": "minecraft:filled_map"
         },
         "title": {
-            "translate": "The wrong destination?"
+            "translate": "เกิดข้อผิดพลาดในการเคลื่อนย้าย?"
         },
         "description": {
-            "translate": "Leave the platform before the fast travel point is fully channelized"
+            "translate": "ออกจากจุดวาร์ปก่อนที่เกจวาร์ปจะเต็ม"
         },
         "announce_to_chat": false
     },
