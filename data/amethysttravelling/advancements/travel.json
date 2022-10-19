@@ -4,10 +4,10 @@
             "item": "minecraft:compass"
         },
         "title": {
-            "translate": "That was pretty fast"
+            "translate": "รีบใช้เกินไปอ่ะ"
         },
         "description": {
-            "translate": "Stand on a connected platform and hold an amethyst shard in your hand"
+            "translate": "ยืนบนแท่นที่เชื่อมต่อกันและถือชิ้นส่วนอเมทิสต์ไว้ในมือ"
         },
         "frame": "goal",
         "announce_to_chat": false
