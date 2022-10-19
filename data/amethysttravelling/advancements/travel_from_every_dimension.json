@@ -4,10 +4,10 @@
             "item": "minecraft:spyglass"
         },
         "title": {
-            "translate": "Arcane traveler"
+            "translate": "นักหาวาร์ปในตำนาน"
         },
         "description": {
-            "translate": "Use a fast travel point in the nether, the overworld, and the end"
+            "translate": "ใช้จุดวาร์ป ในโลกปกติ เนเธอร์ และ ดิเอนด์"
         },
         "frame": "challenge",
         "announce_to_chat": false
