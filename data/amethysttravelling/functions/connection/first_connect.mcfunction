@@ -12,4 +12,4 @@ scoreboard players set @e[tag=fast_travel_point,distance=..1.5,sort=nearest,limi
 scoreboard players set @s AT.blocked 1
 
 # message
-tellraw @s [{"translate":"§5คุณเลือก §dจุดวาร์ป§5! §5อันแรกแล้ว"}]
+tellraw @s [{"translate":"§5คุณเลือก §dจุดวาร์ป§5! §5จุดแรกแล้ว"}]
