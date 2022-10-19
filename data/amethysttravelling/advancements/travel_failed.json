@@ -4,10 +4,10 @@
             "item": "minecraft:spyglass"
         },
         "title": {
-            "translate": "Is my destination destroyed?"
+            "translate": "จุดวาปปลายทางคุณถูกทำลาย?"
         },
         "description": {
-            "translate": "Travel with a fast travel point to a destroyed platform"
+            "translate": "เดินทางไปจุดวาปที่ถูกทำลาย"
         },
         "frame": "goal",
         "announce_to_chat": false
