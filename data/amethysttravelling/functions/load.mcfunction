@@ -27,12 +27,8 @@ scoreboard objectives add AT.inEnd dummy
 scoreboard players set 10 AT.constants 10
 scoreboard players set 16 AT.constants 16
 
-execute unless score copper AT.config matches 0.. run scoreboard players set copper AT.config 200
-execute unless score iron AT.config matches 0.. run scoreboard players set iron AT.config 120
-execute unless score gold AT.config matches 0.. run scoreboard players set gold AT.config 60
-execute unless score emerald AT.config matches 0.. run scoreboard players set emerald AT.config 40
-execute unless score diamond AT.config matches 0.. run scoreboard players set diamond AT.config 30
-execute unless score netherite AT.config matches 0.. run scoreboard players set netherite AT.config 20
+execute unless score lodestone AT.config matches 0.. run scoreboard players set lodestone AT.config 120
+execute unless score beacon AT.config matches 0.. run scoreboard players set beacon AT.config 60
 
 execute unless score var AT.lastId matches 0.. run scoreboard players set var AT.lastId 0
 
@@ -45,17 +41,17 @@ schedule function amethysttravelling:connection/second_platform 12t
 schedule function amethysttravelling:trigger/particle_setting 15t
 
 # setup bossbars
-bossbar add teleport0 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport1 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport2 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport3 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport4 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport5 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport6 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport7 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport8 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport9 {"translate":"Channelling","color":"dark_purple"}
-bossbar add teleport10 {"translate":"Channelling","color":"dark_purple"}
+bossbar add teleport0 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport1 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport2 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport3 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport4 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport5 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport6 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport7 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport8 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport9 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
+bossbar add teleport10 {"translate":"กำลังเชื่อมต่อเส้นทาง","color":"dark_purple"}
 
 bossbar set minecraft:teleport0 max 10
 bossbar set minecraft:teleport1 max 10
@@ -106,4 +102,4 @@ bossbar set minecraft:teleport9 style notched_10
 bossbar set minecraft:teleport10 style notched_10
 
 # message
-tellraw @a [{"translate":"§dAmethyst-fast-travel §5has been reloaded."}]
+tellraw @a [{"translate":"§dAmethyst-fast-travel §5ถูกโหลดใหม่แล้ว"}]

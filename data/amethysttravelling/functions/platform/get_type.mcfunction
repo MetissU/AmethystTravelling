@@ -4,9 +4,9 @@ scoreboard players set @s AT.channelTime 200
 
 # switch on block below
 execute if block ~ ~-1 ~ minecraft:lodestone run scoreboard players set @s AT.level 2
-execute if block ~ ~-1 ~ minecraft:lodestone run scoreboard players operation @s AT.channelTime = diamond AT.config
+execute if block ~ ~-1 ~ minecraft:lodestone run scoreboard players operation @s AT.channelTime = lodestone AT.config
 execute if block ~ ~-1 ~ minecraft:beacon run scoreboard players set @s AT.level 3
-execute if block ~ ~-1 ~ minecraft:beacon run scoreboard players operation @s AT.channelTime = netherite AT.config
+execute if block ~ ~-1 ~ minecraft:beacon run scoreboard players operation @s AT.channelTime = beacon AT.config
 
 # get diminsion
 #   1: "minecraft:the_end"
