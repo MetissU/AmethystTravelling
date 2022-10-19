@@ -24,4 +24,4 @@ scoreboard players set @s AT.isConnecting 0
 scoreboard players set @s AT.targetId 0
 
 # message
-tellraw @a [{"translate":"%1$s §5ได้เชื่อม §dจุดวาป§5!","กับ":[{"selector":"@p","color":"dark_purple"}]}]
+tellraw @a [{"translate":"%1$s §5ได้เชื่อม §dจุดวาร์ป§5!","กับ":[{"selector":"@p","color":"dark_purple"}]}]

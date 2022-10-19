@@ -20,7 +20,7 @@ playsound minecraft:block.beacon.activate block @a ~ ~ ~ 1 1.5
 scoreboard players set @s AT.blocked 1
 
 # message
-tellraw @p [{"translate":"%1$s §5has built a new §dfast travel point§5!","with":[{"selector":"@p","color":"dark_purple"}]}]
+tellraw @p [{"translate":"%1$s §5ได้สร้าง §dจุดวาร์ป§5!","กับ":[{"selector":"@p","color":"dark_purple"}]}]
 
 # give advancement
 execute at @s if block ~ ~-1 ~ #amethysttravelling:copper run advancement grant @s only amethysttravelling:build
