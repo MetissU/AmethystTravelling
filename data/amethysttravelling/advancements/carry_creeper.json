@@ -4,10 +4,10 @@
             "item": "minecraft:creeper_head"
         },
         "title": {
-            "translate": "Appeared with a blast"
+            "translate": "ระเบิดมา"
         },
         "description": {
-            "translate": "Travel with a creeper"
+            "translate": "มาถึงพร้อมน้องเขียว"
         },
         "frame": "challenge",
         "announce_to_chat": false
