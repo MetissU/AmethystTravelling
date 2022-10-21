@@ -2,7 +2,6 @@
 
 ผู้ใช้       | บท
 ------------|:----------------------------------
-![](https://cdn.discordapp.com/attachments/1001387513543409725/1032505245550522428/39985339_1.jpg) **Pretorer** | เจ้าของ Datapacks
 ![](https://cdn.discordapp.com/attachments/1001387513543409725/1032519762330267658/111684641.png) **Laika** | แก้ไขระบบเพื่อใช้กับ Project และแปลภาษา
 ![](https://cdn.discordapp.com/attachments/1001387513543409725/1032519761965359154/116186086.png) **MetissU** | ผู้ช่วยแปลภาษา
 
