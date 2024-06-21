@@ -4,10 +4,10 @@
             "item": "minecraft:amethyst_shard"
         },
         "title": {
-            "translate": "Connect two fast travel points"
+            "translate": "นักหาวาร์ป มือใหม่"
         },
         "description": {
-            "translate": "Stand in the center of an unconnected platform and hold an amethyst shard. Then repeat that for the destination"
+            "translate": "เชื่อมต่อ จุดวาร์ป 2 จุดเข้าด้วยกัน"
         },
         "announce_to_chat": false
     },

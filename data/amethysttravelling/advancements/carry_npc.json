@@ -4,10 +4,10 @@
             "item": "minecraft:lead"
         },
         "title": {
-            "translate": "Did you see the cost?"
+            "translate": "เดินทางร่วมกับนักธุรกิจ"
         },
         "description": {
-            "translate": "Travel with a passive creature"
+            "translate": "วาร์ป พร้อมกับ ชาวบ้าน"
         },
         "frame": "task",
         "announce_to_chat": false

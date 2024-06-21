@@ -6,7 +6,7 @@ particle minecraft:explosion ~ ~0.2 ~ 0.4 0.3 0.4 1 13 force
 scoreboard players set @s AT.isConnected 0
 
 # message
-tellraw @a [{"translate":"§5A §dfast travel point §5has lost its destination!"}]
+tellraw @a [{"translate":"§5A §dจุดวาร์ป §5ถูกทำลาย"}]
 
 # give advancement
 advancement grant @p[distance=..1.5] only amethysttravelling:travel_failed

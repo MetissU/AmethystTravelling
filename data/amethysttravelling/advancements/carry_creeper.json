@@ -4,10 +4,10 @@
             "item": "minecraft:creeper_head"
         },
         "title": {
-            "translate": "ระเบิดมา"
+            "translate": "มาพร้อมระเบิด!!!"
         },
         "description": {
-            "translate": "มาถึงพร้อมน้องเขียว"
+            "translate": "คุณได้พกน้องเขียวมาด้วย"
         },
         "frame": "challenge",
         "announce_to_chat": false

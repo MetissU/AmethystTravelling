@@ -4,10 +4,10 @@
             "item": "minecraft:amethyst_cluster"
         },
         "title": {
-            "translate": "Amethysttravelling"
+            "translate": "การเริ่มต้นการเดินทางอันรวดเร็ว"
         },
         "description": {
-            "translate": "You feel that these gems have something magical ..."
+            "translate": "ได้รับ ชิ้นส่วนอเมทิส"
         },
         "background": "minecraft:textures/block/amethyst_block.png",
         "announce_to_chat": false

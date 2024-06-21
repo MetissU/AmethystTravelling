@@ -4,10 +4,10 @@
             "item": "minecraft:iron_pickaxe"
         },
         "title": {
-            "translate": "Remove a fast travel point"
+            "translate": "ทำลายจุดเชื่อมต่อ"
         },
         "description": {
-            "translate": "Break one block of the platform of a fast travel point"
+            "translate": "ทำลาย 1 บล็อคของ จุดวาร์ป"
         },
         "announce_to_chat": false
     },
